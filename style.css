@@ -117,3 +117,8 @@ h1 {
 .label-score {
   margin-bottom: 2rem;
 }
+
+.creator {
+  margin: 3rem;
+  text-align: center;
+}
