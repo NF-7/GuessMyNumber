@@ -14,4 +14,4 @@ This project was instructed as very basic DOM manipulation exercise and as an ad
 
 Code is reusable by anyone. Open to additional suggestions regarding code usage/better coding with DRY principle in mind.
 
-This is the English version of the minigame and it does not include writing streamlined code in order with the DRY principle. That code is included in the separate folder named SLO.
+This is the English version of the minigame and it does not include writing streamlined code in order with the DRY principle. That code is included in the separate branch named SLO.
